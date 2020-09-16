@@ -1,5 +1,5 @@
 # fys4220
-# Git repository for < firstname > < lastname >
+# Git repository for < Stephen > < Hangluah >
 
 # Assignment progess
 
