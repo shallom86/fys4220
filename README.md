@@ -7,7 +7,7 @@
 # Assignment progess
 
 ## Introductory assignment
- - Problem 1: < not started | started | completed >
+ - Problem 1: < get ready to started | started | completed >
  - Problem 2: < not started | started | completed >
  - Problem 3: < not started | started | completed >
  - Problem 4: < not started | started | completed >
